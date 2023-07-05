@@ -7,17 +7,17 @@
     "text": "About this site"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Build Management",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Table of contents",
     "section": "",
-    "text": "Table of contents\n\nPermission - Management"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Permission Management",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Table of contents\n\nBuild - Management"
   }
 ]
