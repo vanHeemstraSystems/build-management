@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Permission Management"
+  title: "Build Management"
   navbar:
     left:
       - href: index.qmd
